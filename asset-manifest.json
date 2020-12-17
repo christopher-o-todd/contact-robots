@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/contact-robots/static/css/main.b2e0db68.chunk.css",
+    "main.js": "/contact-robots/static/js/main.ca471279.chunk.js",
+    "main.js.map": "/contact-robots/static/js/main.ca471279.chunk.js.map",
+    "runtime-main.js": "/contact-robots/static/js/runtime-main.980ff18f.js",
+    "runtime-main.js.map": "/contact-robots/static/js/runtime-main.980ff18f.js.map",
+    "static/css/2.31461e4f.chunk.css": "/contact-robots/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js": "/contact-robots/static/js/2.a6c4d654.chunk.js",
+    "static/js/2.a6c4d654.chunk.js.map": "/contact-robots/static/js/2.a6c4d654.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/contact-robots/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/contact-robots/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/contact-robots/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/contact-robots/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.b2e0db68.chunk.css.map": "/contact-robots/static/css/main.b2e0db68.chunk.css.map",
+    "static/js/2.a6c4d654.chunk.js.LICENSE.txt": "/contact-robots/static/js/2.a6c4d654.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/contact-robots/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980ff18f.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.a6c4d654.chunk.js",
+    "static/css/main.b2e0db68.chunk.css",
+    "static/js/main.ca471279.chunk.js"
+  ]
+}
